@@ -1,0 +1,11 @@
+*********TOP 5 Peak Hours**********
+Hour: 13, Number of registrations: 3
+Hour: 16, Number of registrations: 3
+Hour: 21, Number of registrations: 2
+Hour: 19, Number of registrations: 2
+Hour: 11, Number of registrations: 2
+
+********TOP 3 Peak Weekdays********
+Weekday: Wednesday, Number of registrations:7
+Weekday: Thursday, Number of registrations:5
+Weekday: Sunday, Number of registrations:4
